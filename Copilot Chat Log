@@ -1,0 +1,4 @@
+I used copilot to help guide the structure of my Python script for this assignment. Specifically, I asked for assistance with:
+- Calculating the six pairwise correlations
+Grouping the data by species to compute mean, median, and standard deviation
+Determing the most similar and least similar species based on mean measurements
